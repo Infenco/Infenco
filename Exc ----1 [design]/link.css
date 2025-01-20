@@ -1,0 +1,127 @@
+.main {
+  background-color: palegreen;
+  border: solid;
+  height: 540px;
+  width: 1000px;
+
+}
+
+#website_name{
+  background-color: paleturquoise;
+  height: 80px;
+  width: 1000px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  font-style: unset;
+  font-weight: bold;
+  color: #45ccfe;
+  background-image: url(Moon\ and\ Desktop.png);
+  background-size: cover;
+  padding-top: 20px;
+}
+/*Menu Bar*/
+.menu_bar{
+  background-color: red;
+  height: 40px;
+  width: 1000px;
+}
+.first_bar{
+  float: left;
+  font-family: cursive;
+  font-size: 30px;
+  text-transform: uppercase;
+  height: 40px;
+  width: 200px;
+  text-align: center;
+  color: white;
+  text-shadow: color( red green blue);
+}
+#home{
+  background-color: #7a0177;
+}
+#about{
+  background-color: #c51b8a;
+}
+#course{
+  background-color: #f768a1;
+}
+#contact{
+  background-color: #fa9fb5 ;
+}
+#gallery{
+  background-color: #fcc5c0;
+}
+
+/*bar two*/
+.bar_2{
+  background-color: aquamarine;
+  height: 200px;
+  width: 1000px;
+}
+.menu{
+  background-color: red;
+  height: 200px;
+  width: 250px;
+  float: left;
+  color: #7a0177;
+}
+
+.sec_bar{
+  height: 40px;
+  width: 250px;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 30px;
+  font-style: italic;
+  color: white;
+  text-shadow: 3px 0px 10px rgb(0, 0, 0);
+  box-shadow: inset 2px 0px 10px  rgb(245, 246, 246);
+}
+/*bar color section*/
+#bar_1{
+  background-color: #fcc5c0;
+
+}
+#bar_2{
+  background-color: aliceblue;
+}
+#bar_3{
+  background-color: #45ccfe;
+} 
+#bar_4{
+  background-color: #d7fd2d;
+} 
+#bar_5{
+  background-color: #3ff79e;  
+}
+
+
+
+
+/*png 1*/
+.png1{
+  background-color: wheat;
+  height: 200px;
+  width: 750px;
+  float: right;
+}
+
+.our_clint{
+  background-color: gold;
+  height: 50px;
+  width: 1000px;
+}
+
+/*image propatis*/
+.total_img{
+  background-color: red;
+  height: 100px;
+}
+.image{
+  height: 100px;
+  float: left;
+  background-color: #fcc5c0;
+  width: 330px;
+}
+
